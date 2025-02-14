@@ -1,8 +1,10 @@
-## Hi, I'm Bart 👋
+# Hi, I'm Bart 👋
 
-I'm a software engineer studying at Northeastern University with B.S. in Computer Science with a concentration in Software. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development. Reach out to me! Especially if you know any techniques to making omurice or your controversial, favorite water brand.
+I'm a software engineer studying at Northeastern University with _B.S. in Computer Science with a concentration in Software_. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development. 
 
-## Contact Me
+Reach out to me! Especially if you know any techniques to making omurice or your controversial, favorite water brand.
+
+## 📬 Contact Me
 - <a href="https://www.linkedin.com/in/jlojanarungsiri">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/> LinkedIn</a> 
   
