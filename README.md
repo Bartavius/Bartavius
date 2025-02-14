@@ -12,8 +12,7 @@ I'm a software engineer studying at Northeastern University with B.S. in Compute
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful-1/2048/5382_-_Outlook-512.png" alt="Email" width="20" height="20"/> Email</a>
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartavius&layout=pie&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bartavius)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartavius&layout=pie&theme=radical) 
 
 ## 🔭 Some Projects
 
