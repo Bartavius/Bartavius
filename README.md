@@ -1,6 +1,6 @@
 # Hi, I'm Bart 👋
 
-I'm a software engineer studying at Northeastern University with _B.S. in Computer Science with a concentration in Software_. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development. 
+> I'm a software engineer studying at Northeastern University with _B.S. in Computer Science with a concentration in Software_. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development.
 
 Reach out to me! Especially if you know any techniques to making omurice or your controversial, favorite water brand.
 
@@ -19,9 +19,9 @@ Reach out to me! Especially if you know any techniques to making omurice or your
 ## 🔭 Some Projects
 
 - [Kanbas](https://github.com/Bartavius/kanbas): A Canvas clone built with MERN stack.
-- [High Card](https://github.com/Bartavius/high-card): A credit card management app that won Best Startup at FinHacks 2025.
+- [High Card](https://github.com/williampan22/finhacks2025): A credit card management app that won Best Startup at FinHacks 2025.
 - [J.A.Z.A.](https://github.com/Bartavius/JAZA-Just-A-Zip-Away): A roadtrip-funding app submitted for HackBeanpot 2025 (UI/UX)
-- [Geoguessr AI](https://github.com/Bartavius/geoguessr-ai): An AI project for improving Geoguessr.
+- [Geoguessr AI](https://github.com/Bartavius/geoguessrai): An AI project for improving Geoguessr.
 
 ## 💻 Skills
 
