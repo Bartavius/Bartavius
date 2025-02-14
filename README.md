@@ -1,6 +1,6 @@
 # Hi, I'm Bart 👋
 
-> I'm a software engineer studying at Northeastern University with _B.S. in Computer Science with a concentration in Software_. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development.
+> I'm a software engineering student studying at Northeastern University with _B.S. in Computer Science with a concentration in Software_. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development.
 
 Reach out to me! Especially if you know any techniques to making omurice or your controversial, favorite water brand.
 
