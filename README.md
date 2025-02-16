@@ -3,6 +3,8 @@
 > I'm a software engineering student studying at Northeastern University with _B.S. in Computer Science with a concentration in Software_. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development.
 
 Reach out to me! Especially if you know any techniques to making omurice or your controversial, favorite water brand.
+linkedin: <a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">jlojanarungsiri</a>
+email: <a href="mailto:lojanarungsiri.j@northeastern.edu">lojanarungsiri.j@northeastern.edu</a>
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartavius&layout=pie&theme=radical) 
@@ -33,12 +35,4 @@ Reach out to me! Especially if you know any techniques to making omurice or your
 - [J.A.Z.A.](https://github.com/Bartavius/JAZA-Just-A-Zip-Away): A roadtrip-funding app submitted for HackBeanpot 2025 (UI/UX)
 - [Geoguessr AI](https://github.com/Bartavius/geoguessrai): An AI project for improving Geoguessr.
 
-## 📬 Connect with me!
-<a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/></a>  <a href="https://www.linkedin.com/in/jlojanarungsiri">LinkedIn</a>
-   
-  
-  
- <a href="mailto:lojanarungsiri.j@northeastern.edu">
-  <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful-1/2048/5382_-_Outlook-512.png" alt="Email" width="30" height="30"/></a> <a href="mailto:lojanarungsiri.j@northeastern.edu" target="_blank">Email</a>
 
