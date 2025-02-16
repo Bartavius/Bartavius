@@ -3,8 +3,10 @@
 > I'm a software engineering student studying at Northeastern University with _B.S. in Computer Science with a concentration in Software_. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development.
 
 Reach out to me! Especially if you know any techniques to making omurice or your controversial, favorite water brand.
-linkedin: <a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">jlojanarungsiri</a>
-email: <a href="mailto:lojanarungsiri.j@northeastern.edu">lojanarungsiri.j@northeastern.edu</a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">jlojanarungsiri</a>
+
+Email: <a href="mailto:lojanarungsiri.j@northeastern.edu">lojanarungsiri.j@northeastern.edu</a>
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartavius&layout=pie&theme=radical) 
