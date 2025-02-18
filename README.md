@@ -8,9 +8,6 @@ LinkedIn: <a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">
 
 Email: <a href="mailto:lojanarungsiri.j@northeastern.edu">lojanarungsiri.j@northeastern.edu</a>
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartavius&layout=pie&theme=radical) 
-
 
 ## 💻 Skills
 
