@@ -11,7 +11,7 @@ Email: <a href="mailto:lojanarungsiri.j@northeastern.edu">lojanarungsiri.j@north
 
 
 ## 🔭 Some Projects
-- [Geoguessr Game and AI](https://github.com/Bartavius/GeoguessrGameAndAI): A completely free (but a little scuffed version) of GeoGuessr, and working on the AI to that can play the game.
+- [Plonkstars](https://github.com/Bartavius/Plonkstars): A completely free (but a little scuffed version) of GeoGuessr.
 - [Kanbas](https://github.com/Bartavius/kanbas): A Canvas clone built with MERN stack.
 - [High Card](https://github.com/williampan22/finhacks2025): A credit card management app that won Best Startup at FinHacks 2025.
 - [J.A.Z.A.](https://github.com/Bartavius/JAZA-Just-A-Zip-Away): A roadtrip-funding app submitted for HackBeanpot 2025 (UI/UX)
