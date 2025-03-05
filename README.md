@@ -5,6 +5,8 @@
 
 Reach out to me! Especially if you know any techniques to making omurice or your controversial, favorite water brand.
 
+Personal Website: <a href="https://bartavius.vercel.app" target="_blank">https://bartavius.vercel.app</a>
+
 LinkedIn: <a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">jlojanarungsiri</a>
 
 Email: <a href="mailto:lojanarungsiri.j@northeastern.edu">lojanarungsiri.j@northeastern.edu</a>
