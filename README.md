@@ -1,4 +1,4 @@
-# Hi, I'm Bart  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave" width="40">
+# Hi, I'm Bart 
 
 
 > I'm a software engineering student studying at Northeastern University with _B.S. in Computer Science with a concentration in Software_. I greatly enjoy building websites as a Full-Stack Developer and, currently, I'm exploring the world of full-stack and expanding my skills in web development.
