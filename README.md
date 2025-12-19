@@ -10,7 +10,7 @@ Personal Website: <a href="https://bartavius.vercel.app" target="_blank">https:/
 LinkedIn: <a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">jlojanarungsiri</a>
 
 Email: <a href="mailto:jlojanarungsiri@gmail.com">jlojanarungsiri@gmail.com</a>
-if I contacted anybody via lojanarungsiri.j@northeastern.edu, that one also works!
+(if I contacted anybody via lojanarungsiri.j@northeastern.edu, that one also works!)
 
 
 ## 🔭 Some Projects
