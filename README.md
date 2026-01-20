@@ -12,13 +12,6 @@ LinkedIn: <a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">
 Email: <a href="mailto:jlojanarungsiri@gmail.com">jlojanarungsiri@gmail.com</a>
 (if I contacted anybody via lojanarungsiri.j@northeastern.edu, that one also works!)
 
-
-## 🔭 Some Projects
-- [Plonkstars](https://github.com/Bartavius/Plonkstars): A completely free (but a little scuffed version) of GeoGuessr.
-- [Kanbas](https://github.com/Bartavius/kanbas): A Canvas clone built with MERN stack.
-- [High Card](https://github.com/williampan22/finhacks2025): A credit card management app that won Best Startup at FinHacks 2025.
-- [J.A.Z.A.](https://github.com/Bartavius/JAZA-Just-A-Zip-Away): A roadtrip-funding app submitted for HackBeanpot 2025 (UI/UX)
-
 - **Next project (in progress)**: three.js rubix cube solver built using q-learning
 
 
