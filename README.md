@@ -1,6 +1,6 @@
 # I'm Bart, and I'm very sensitive bottled water flavors
 
-I build stuff as a Full-Stack Developer (mainly React), and I'm also pretty interested in distributed systems. Huzzah!
+*I build stuff as a Full-Stack Developer (mainly React), and I'm also pretty interested in distributed systems. Huzzah!*
 
 
 > [!NOTE]
