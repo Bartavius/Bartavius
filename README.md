@@ -8,4 +8,4 @@ I build stuff as a Full-Stack Developer (mainly React), and I'm also pretty inte
 > <p>Email: <a href="mailto:jlojanarungsiri@gmail.com">jlojanarungsiri@gmail.com</a> (if I contacted anybody via lojanarungsiri.j@northeastern.edu, that one also works!)</p>
 
 
-**Next project (in progress)**: three.js rubix cube solver built using q-learning
+**Next project (in progress)**: three.js rubix cube solver built using q-learning AI agent
