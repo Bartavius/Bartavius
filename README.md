@@ -1,6 +1,6 @@
 # Hi, I'm Bart 
 
-I enjoy building websites as a Full-Stack Developer (mainly React), and I'm also pretty interested in distributed systems. Huzzah!
+I build stuff as a Full-Stack Developer (mainly React), and I'm also pretty interested in distributed systems. Huzzah!
 
 ><p>Personal Website: <a href="https://bartavius.vercel.app" target="_blank">https://bartavius.vercel.app</a>  <- click for resume and to learn about *me* and what I can do for you</p>
 ><p>LinkedIn: <a href="https://www.linkedin.com/in/jlojanarungsiri" target="_blank">jlojanarungsiri</a></p>
