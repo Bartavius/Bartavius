@@ -1,6 +1,7 @@
-# Hi, I'm Bart 
+# I'm Bart and I'm very critical to water bottle flavors
 
 I build stuff as a Full-Stack Developer (mainly React), and I'm also pretty interested in distributed systems. Huzzah!
+
 
 > [!NOTE]
 > <p>Personal Website: <a href="https://bartavius.vercel.app" target="_blank">https://bartavius.vercel.app</a>  <- click for resume and to learn about *me* and what I can do for you</p>
