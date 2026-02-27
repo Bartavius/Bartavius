@@ -4,7 +4,7 @@
 
 
 > [!WARNING]
-> ### <ul><a href="https://bartavius.vercel.app" target="_blank">Personal Website</a></ul>
+> ### <ul>>> <a href="https://bartavius.vercel.app" target="_blank">Personal Website</a> <<</ul>
 > #### <ul>Check out my website for my <a href="https://bartavius.vercel.app" target="_blank">resume</a>, <a href="https://bartavius.vercel.app" target="_blank">contacts</a>, and see what I can do for you</ul>
 
 
