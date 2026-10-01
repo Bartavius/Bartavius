@@ -8,4 +8,4 @@
 > #### <ul>Check out my website for my <a href="https://heybart.dev" target="_blank">resume</a>, <a href="https://heybart.dev" target="_blank">contacts</a>, and see what I can do for you</ul>
 
 
-Next project (not yet in progress [TRAGIC] ): three.js rubix cube solver built using q-learning AI agent
+What I'm up to rn: taking classes </3
